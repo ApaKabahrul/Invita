@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="home"/>
+
+    <item
+        android:id="@+id/barcode"
+        android:enabled="true"
+        android:icon="@drawable/ic_code"
+        android:title="code"/>
+
+    <item
+        android:id="@+id/cam"
+        android:enabled="true"
+        android:icon="@drawable/ic_cam"
+        android:title="cam"/>
+</menu>
